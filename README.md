@@ -1,7 +1,10 @@
 # The Fork & Pen 🍴 — Food Review Blog
 
-A full-stack PHP/MySQL food review platform, built for a Web Technologies unit (NIT1101).
+A full-stack PHP/MySQL food review platform, built for a Web Technologies unit 
+## 🔗 Live Demo
+   **https://forkandpen.site.je/**
 
+   > Hosted on a free tier — if the page shows a resource-limit message, please refresh after a minute.
 ## Features
 - CRUD-driven menu manager (add/edit/delete/sort) using prepared statements
 - Client-side form validation, interactive star ratings, live search filtering
